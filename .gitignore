@@ -1,0 +1,37 @@
+# Root
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+
+# Node modules
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Python virtual environments (if any)
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/instance/
+backend/*.pyc
+
+# Flask cache and logs
+*.log
+*.db
+*.sqlite3
+
+# VSCode & OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter or Conda
+.ipynb_checkpoints/
+*.ipynb
+*.conda
+*.egg-info
