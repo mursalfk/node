@@ -1,7 +1,7 @@
 # Project Notifications &amp; Organization Dashboard for Email
 
 
-# 📊 Feasibility Report: Unified Email Management Dashboard
+# 📊 Feasibility Report
 
 ## 📝 Project Overview
 
